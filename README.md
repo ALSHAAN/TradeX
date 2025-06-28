@@ -1,2 +1,3 @@
-# TradeX
+# TradeX - Stock Portfolio Platform
+
 
